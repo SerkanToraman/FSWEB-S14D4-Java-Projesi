@@ -21,8 +21,8 @@ Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projele
  * Her sınıfa o sınıfa özgü en az bir tane daha ```instance variable``` değeri ekleyiniz.
  * ```showDetails``` isimli metot, ProductForSale üzerinde var olan ve kendine özgü olan tüm ```instance variable``` değerlerini anlaşılabilir bir şekilde ekrana bastırmalı.
 
- * Store sınıfı içerisinde bulanan ```listProducts``` metodu parametre olarak aldığı ```products``` dizisini gezmeli ve her bir değer için  ```showDetails``` metodunu çağırmalı.
- * Store sınıfında main metodu içerisinde ProductForSale değeri alabilen bir dizi oluşturmalısınız. 
+ * com.workintech.S18G4.main.Store sınıfı içerisinde bulanan ```listProducts``` metodu parametre olarak aldığı ```products``` dizisini gezmeli ve her bir değer için  ```showDetails``` metodunu çağırmalı.
+ * com.workintech.S18G4.main.Store sınıfında main metodu içerisinde ProductForSale değeri alabilen bir dizi oluşturmalısınız. 
  * Bu dizinin içerisine ```Chocolate, Coke, Bread``` objelerinden birer adet eklemelsiniz.
  * Bu diziyi ```listProducts``` metoduna parametre olarak geçiniz.
  * Her bir ```showDetails``` metodu çağırıldığında çağırıldığı objeye göre mesaj döndüğünden emin olunuz.
